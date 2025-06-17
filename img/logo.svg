@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1920 1080">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6 {
+        stroke-miterlimit: 10;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st6 {
+        fill: none;
+      }
+
+      .st0, .st3 {
+        stroke-width: 6px;
+      }
+
+      .st0, .st5 {
+        stroke: #009245;
+      }
+
+      .st1 {
+        stroke-width: 3px;
+      }
+
+      .st1, .st2, .st3, .st4, .st6 {
+        stroke: #006837;
+      }
+
+      .st2 {
+        stroke-width: 2px;
+      }
+
+      .st7 {
+        fill: #22b573;
+        font-family: BernardMT-Condensed, 'Bernard MT Condensed';
+        font-size: 115.49px;
+      }
+
+      .st4 {
+        stroke-width: 4px;
+      }
+
+      .st5 {
+        fill: #009245;
+      }
+
+      .st6 {
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <text class="st7" transform="translate(361.21 704.79)"><tspan x="0" y="0" xml:space="preserve">G R E E N  O R G A N I C</tspan></text>
+  <g>
+    <g>
+      <path class="st0" d="M723.33,547.7c60.77,1.63,192.53,12.28,266.75-.66,2.34-.41,9.8-1.68,15.11-3.44,3.34-1.1,5.79-3.97,6.37-7.44,12.25-72.88-35.32-303.4-159.9-299.27-121.01,0-160.47,235.54-142.98,301.29.15,7.46,8.36,9.36,14.65,9.52Z"/>
+      <path class="st3" d="M860.11,553.13c-.3-14.47-.94-22.52-.91-29.34.18-43.16-.9-43.14-.9-43.15-1.2-72.49,5.23-118.7-1.94-121.76-11.29-4.82-66.09,97.11-66.63,137.95-.31,23.73,28.66,23.51,58.18,26.28,30.03,2.82,81.07,7,75.07-21.58-15.95-76.01-50.67-125.75-66.63-142.64"/>
+      <line class="st6" x1="835.71" y1="425.51" x2="858.23" y2="448.03"/>
+      <line class="st1" x1="858.23" y1="473.37" x2="875.12" y2="449.91"/>
+      <line class="st2" x1="858.23" y1="463.98" x2="846.03" y2="451.78"/>
+      <line class="st4" x1="858.23" y1="485.57" x2="872.31" y2="468.68"/>
+      <text/>
+    </g>
+    <circle class="st5" cx="859.08" cy="294.76" r="9.78"/>
+    <circle class="st5" cx="947.13" cy="395.39" r="9.78"/>
+    <circle class="st5" cx="759.85" cy="395.39" r="9.78"/>
+  </g>
+</svg>
